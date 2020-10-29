@@ -24,4 +24,4 @@ end
 
 EXECUÇÃO 
 
-1-Rodar o comando Cucumber dentro da pasta C:\qafullstack\ruby\cucumber\Yaman2
+1-Rodar o comando Cucumber dentro da pasta "Yaman2"
